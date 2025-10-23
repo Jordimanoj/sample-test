@@ -8,21 +8,21 @@ Folder structure example:
 my_package/
 
 ├── my_package/
-
+|
 │   ├── __init__.py
-
+|
 │   ├── module1.py
-
+|
 │   └── module2.py
-
+|
 ├── tests/
-
+|
 │   └── test_module1.py
-
+|
 ├── README.md
-
+|
 ├── setup.py
-
+|
 └── requirements.txt
 
 
