@@ -2,6 +2,8 @@
 
 Python Package Creation 
 Legacy Method (Using setup.py)
+
+
 Folder structure example:
 my_package/
 ├── my_package/
